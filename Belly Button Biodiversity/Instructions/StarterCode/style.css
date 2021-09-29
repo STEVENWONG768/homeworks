@@ -1,0 +1,31 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+.container {
+  position: center;
+  margin: 100px;
+  width: auto;
+  background-color: rgb(255, 255, 255);
+}
+
+.column {
+    float: left;
+  }
+
+head {
+    background-color: black;
+}
+body {
+ background-color: transparent;
+ background-position: left top;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-size: 100% 100%;
+}
+
+.row {
+  background-color: transparent;
+  font-family: 'Arial, Helvetica, sans-serif';
+  color: rgb(0, 0, 0);
+}
+
